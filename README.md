@@ -30,6 +30,13 @@ The dashboard helps users explore subject-wise scores and overall student result
 - *Student Performance Dataset* — source data for the analysis
 
 ---
+## 🖼️ Dashboard Screenshot
+
+The screenshot below provides a preview of the Power BI dashboard.
+
+<img width="383" height="215" alt="Screenshot 2026-11-24 221513" src="https://github.com/user-attachments/assets/da95396e-8758-47ee-bc80-9c9f1523958b" />
+
+---
 
 ## 📈 Dashboard Features
 
@@ -58,15 +65,6 @@ The dashboard includes slicers for:
 - Subject
 
 These filters allow users to explore the available data based on selected categories.
-
----
-
-## 🖼️ Dashboard Screenshot
-
-The screenshot below provides a preview of the Power BI dashboard.
-
-<img width="379" height="209" alt="Screenshot 2026-10-26 220740" src="https://github.com/user-attachments/assets/bf240e0b-b907-41cc-88ce-a3a18bc613f5" />
-
 
 ---
 
